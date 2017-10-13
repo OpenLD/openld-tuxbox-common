@@ -1139,6 +1139,17 @@
 		<transponder centre_frequency="754000000" bandwidth="0" constellation="3" /><!-- Ch 56 -->
 		<transponder centre_frequency="778000000" bandwidth="0" constellation="3" /><!-- Ch 59 -->
 	</terrestrial>
+	<terrestrial name="Navarra (Europe DVB-T/T2)" flags="5" countrycode="ESP">
+		<transponder centre_frequency="490000000" bandwidth="0" constellation="3"/>
+		<transponder centre_frequency="514000000" bandwidth="0" constellation="3"/>
+		<transponder centre_frequency="538000000" bandwidth="0" constellation="3"/>
+		<transponder centre_frequency="602000000" bandwidth="0" constellation="3"/>
+		<transponder centre_frequency="610000000" bandwidth="0" constellation="3"/>
+		<transponder centre_frequency="682000000" bandwidth="0" constellation="3"/>
+		<transponder centre_frequency="730000000" bandwidth="0" constellation="3"/>
+		<transponder centre_frequency="746000000" bandwidth="0" constellation="3"/>
+		<transponder centre_frequency="778000000" bandwidth="0" constellation="3"/>
+	</terrestrial>
 	<terrestrial name="Ses Illes (Europe DVB-T/T2)" flags="5" countrycode="ESP">
 		<transponder centre_frequency="474000000" bandwidth="0" constellation="3" /><!-- Ch 21 -->
 		<transponder centre_frequency="498000000" bandwidth="0" constellation="3" /><!-- Ch 24 -->
